@@ -7,6 +7,7 @@ From my experience on this, ild be showing the steps to how I achieved connectin
 
 > ### Lets Begin
 
+- The vm(/ubuntu) should be running
 - note down the user name and i.p address of the ubuntu machine.
 
 - go to the home directory, using the command
